@@ -1,0 +1,10 @@
+{
+  "Electronics": [
+    { "Mobiles": ["Mi", "Realme", "Samsung"] },
+    { "Smart Wearable Tech": ["Smart Watches", "Smart Glasses"] }
+  ],
+  "TVs & Appliances": [{ "Top Brands": ["Mi", "Realme", "Samsung"] }],
+  "Men": [{ "Top Wear": ["T-shirts", "Formal shirts", "Casual shirts"] }],
+  "Women": [{ "Sandals": ["Heels", "Flats", "Wedges"] }],
+  "Baby & Kids": [{ "Toys": ["S.T.E.M Toys", "Soft Toys", "Puzzles"] }]
+}
